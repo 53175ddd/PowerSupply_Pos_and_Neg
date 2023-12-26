@@ -18,7 +18,8 @@ DC 9 ~ 12V を入力すると，正負出力に変換する電源回路です
 | C1 - C4 | 1uF | <https://akizukidenshi.com/catalog/g/gP-08150/> |
 | C5 | 470pF | <https://akizukidenshi.com/catalog/g/gP-08130/> |
 | C6 - C9 | 0.1uF | <https://akizukidenshi.com/catalog/g/gP-10147/> |
-| D1 - D4 | 1N4148 | <https://akizukidenshi.com/catalog/g/gI-00941/> |
+| D1 - D3 | 1N4148 | <https://akizukidenshi.com/catalog/g/gI-00941/> |
+| D4 | 1JU41 | <https://akizukidenshi.com/catalog/g/gI-12820/> |
 | J1 | 2.1mm DC ジャック | <https://akizukidenshi.com/catalog/g/gC-06568/> |
 | J2 | 3P ターミナルブロック | <https://akizukidenshi.com/catalog/g/gP-01307/> |
 | L1 | 220uH | <https://akizukidenshi.com/catalog/g/gP-13381/> |
